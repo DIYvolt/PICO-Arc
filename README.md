@@ -1,5 +1,5 @@
 # PICO Arc
-#pocket Arcade
+# pocket Arcade
 **A DIY handheld game console powered by the Raspberry Pi Pico.**
 
 PICO Arc is a small, homemade gaming console built around the Raspberry Pi Pico and a 128×64 SSD1306 OLED display. It uses physical buttons for controls and supports multiple mini-games, all running on MicroPython.
